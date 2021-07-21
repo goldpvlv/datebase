@@ -1,0 +1,17 @@
+C:\Users\Злата\source\repos\MainProject\MainProject\obj\Debug\MainProject.csprojAssemblyReference.cache
+C:\Users\Злата\source\repos\MainProject\MainProject\obj\Debug\MainProject.Form1.resources
+C:\Users\Злата\source\repos\MainProject\MainProject\obj\Debug\MainProject.Properties.Resources.resources
+C:\Users\Злата\source\repos\MainProject\MainProject\obj\Debug\MainProject.csproj.GenerateResource.cache
+C:\Users\Злата\source\repos\MainProject\MainProject\obj\Debug\MainProject.csproj.CoreCompileInputs.cache
+C:\Users\Злата\source\repos\MainProject\MainProject\bin\Debug\MainProject.exe.config
+C:\Users\Злата\source\repos\MainProject\MainProject\bin\Debug\MainProject.exe
+C:\Users\Злата\source\repos\MainProject\MainProject\bin\Debug\MainProject.pdb
+C:\Users\Злата\source\repos\MainProject\MainProject\obj\Debug\MainProject.exe
+C:\Users\Злата\source\repos\MainProject\MainProject\obj\Debug\MainProject.pdb
+C:\Users\Злата\source\repos\MainProject\MainProject\obj\Debug\MainProject.Form4.resources
+C:\Users\Злата\source\repos\MainProject\MainProject\obj\Debug\MainProject.csproj.ResolveComReference.cache
+C:\Users\Злата\source\repos\MainProject\MainProject\bin\Debug\GemBox.Spreadsheet.dll
+C:\Users\Злата\source\repos\MainProject\MainProject\bin\Debug\GemBox.Spreadsheet.WinFormsUtilities.dll
+C:\Users\Злата\source\repos\MainProject\MainProject\bin\Debug\GemBox.Spreadsheet.xml
+C:\Users\Злата\source\repos\MainProject\MainProject\bin\Debug\GemBox.Spreadsheet.WinFormsUtilities.xml
+C:\Users\Злата\source\repos\MainProject\MainProject\obj\Debug\MainProject.csproj.CopyComplete
